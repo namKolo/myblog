@@ -5,4 +5,4 @@ date: 2017-10-09T12:55:48+07:00
 draft: true
 ---
 
-hello my friend
+hello my friend hihi
