@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Nam KOLO" 
+theme = "ananke"
+publishDir = "docs"
+
+[params]
+    featured_image = "/images/bg.jpg"
